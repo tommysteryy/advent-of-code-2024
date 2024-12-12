@@ -1,2 +1,4 @@
 # At AoC's request, do not save the data
 data/
+
+.vscode/*
